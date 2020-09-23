@@ -3,9 +3,9 @@
         "docx3_html_version_mac": "20.1",
         "docx3_html_version_win": "19.0",
         "docx3_html_version_linux": "19.0",
-        "docx1_html_version_mac": "2"
-        "docx1_html_version_win": "2"
-        "docx1_html_version_linux": "2"
+        "docx1_html_version_mac": "2",
+        "docx1_html_version_win": "2",
+        "docx1_html_version_linux": "2",
 
     }
 ]
