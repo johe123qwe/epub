@@ -1,13 +1,13 @@
 [
     {
-        "docx3_html_version_mac": "20.2",
+        "docx3_html_version_mac": "20.3",
         "docx3_html_version_win": "20.2",
         "docx3_html_version_linux": "20.2",
         "docx1_html_version_mac": "2.0",
         "docx1_html_version_win": "2.0",
         "docx1_html_version_linux": "2.0",
-        "make_epub_version_mac": "1.4",
-        "make_epub_version_win": "1.4",
+        "make_epub_version_mac": "1.6",
+        "make_epub_version_win": "1.6",
         "make_epub_version_linux": "1.4",
         "gdown_docx_version_mac":"1.2",
         "gdown_docx_version_win":"1.2",
