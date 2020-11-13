@@ -11,7 +11,7 @@
         "make_epub_version_linux": "1.4",
         "gdown_docx_version_mac":"1.4.6",
         "gdown_docx_version_win":"1.2",
-        "gdown_docx_version_linux":"1.2"
+        "gdown_docx_version_linux":"1.4.6"
 
     }
 ]
