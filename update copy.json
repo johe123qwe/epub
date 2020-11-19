@@ -1,17 +1,32 @@
-[
-    {
-        "docx3_html_version_mac": "20.4",
-        "docx3_html_version_win": "20.4",
-        "docx3_html_version_linux": "20.4",
-        "docx1_html_version_mac": "2.0",
-        "docx1_html_version_win": "2.0",
-        "docx1_html_version_linux": "2.0",
-        "make_epub_version_mac": "1.6",
-        "make_epub_version_win": "1.6",
-        "make_epub_version_linux": "1.4",
-        "gdown_docx_version_mac":"1.5",
-        "gdown_docx_version_win":"1.2",
-        "gdown_docx_version_linux":"1.5"
-
-    }
-]
+{
+    "button":[
+    {    
+         "type":"click",
+         "name":"今日歌曲",
+         "key":"V1001_TODAY_MUSIC"
+     },
+     {
+          "type":"click",
+          "name":"歌手简介",
+          "key":"V1001_TODAY_SINGER"
+     },
+     {
+          "name":"菜单",
+          "sub_button":[
+          {    
+              "type":"view",
+              "name":"搜索",
+              "url":"http://www.soso.com/"
+           },
+           {
+              "type":"view",
+              "name":"视频",
+              "url":"http://v.qq.com/"
+           },
+           {
+              "type":"click",
+              "name":"赞一下我们",
+              "key":"V1001_GOOD"
+           }]
+      }]
+}
