@@ -15,9 +15,9 @@
         "excel_tool_version_mac":"1.2",
         "excel_tool_version_win":"1.2",
         "excel_tool_version_linux":"1.2",
-        "cut_xhtml_version_mac":"1.1",
-        "cut_xhtml_version_win":"1.1",
-        "cut_xhtml_version_linux":"1.1"
+        "cut_xhtml_version_mac":"1.0",
+        "cut_xhtml_version_win":"1.0",
+        "cut_xhtml_version_linux":"1.0"
 
     }
 ]
